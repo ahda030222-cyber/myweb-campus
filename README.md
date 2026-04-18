@@ -26,7 +26,6 @@ This platform is built with a modular architecture, featuring several powerful m
 ### Prerequisites
 - Node.js (v18+)
 - Firebase Account
-- Google AI Studio API Key
 
 ### Installation
 
