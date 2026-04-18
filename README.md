@@ -2,8 +2,6 @@
 
 Welcome to **MyWeb Campus**, a comprehensive, AI-integrated educational platform designed to streamline academic management, enhance student engagement, and provide intelligent insights for educators.
 
-![Banner](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
-
 ## 🌟 Key Features (Our "Plugins")
 
 This platform is built with a modular architecture, featuring several powerful modules (plugins) to handle every aspect of campus life:
