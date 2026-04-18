@@ -41,13 +41,7 @@ This platform is built with a modular architecture, featuring several powerful m
    npm install
    ```
 
-3. **Environment Variables**:
-   Create a `.env.local` file and add your API Key:
-   ```env
-   AI_API_KEY=your_api_key_here
-   ```
-
-4. **Run the development server**:
+3. **Run the development server**:
    ```bash
    npm run dev
    ```
