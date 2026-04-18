@@ -17,7 +17,6 @@ This platform is built with a modular architecture, featuring several powerful m
 - **Frontend**: React 19, Vite, TypeScript, Tailwind CSS (Vanilla CSS).
 - **Backend**: Node.js, Express.
 - **Database/Auth**: Firebase & Firestore.
-- **AI Engine**: Advanced Generative AI.
 - **Animations**: Framer Motion / Motion.
 
 ## 🛠️ Getting Started
