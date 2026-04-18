@@ -52,6 +52,10 @@ This platform is built with a modular architecture, featuring several powerful m
    npm run dev
    ```
 
+## 👥 Contributors
+
+- **boykisser-clan**
+
 ## 📄 License
 This project is private and for educational purposes.
 
