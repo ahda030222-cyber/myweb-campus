@@ -44,10 +44,6 @@ This platform is built with a modular architecture, featuring several powerful m
    npm run dev
    ```
 
-## 👥 Contributors
-
-- **boykisser-clan**
-
 ## 📄 License
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
