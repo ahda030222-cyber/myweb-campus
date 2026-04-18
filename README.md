@@ -1,4 +1,4 @@
-# 🎓 MyWeb Campus - AI-Powered School Management System
+# 🎓 MyWeb Campus - School Management System
 
 Welcome to **MyWeb Campus**, a comprehensive educational platform designed to streamline academic management, enhance student engagement, and provide intelligent insights for educators.
 
