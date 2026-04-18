@@ -1,13 +1,12 @@
 # 🎓 MyWeb Campus - AI-Powered School Management System
 
-Welcome to **MyWeb Campus**, a comprehensive, AI-integrated educational platform designed to streamline academic management, enhance student engagement, and provide intelligent insights for educators.
+Welcome to **MyWeb Campus**, a comprehensive educational platform designed to streamline academic management, enhance student engagement, and provide intelligent insights for educators.
 
 ## 🌟 Key Features (Our "Plugins")
 
 This platform is built with a modular architecture, featuring several powerful modules (plugins) to handle every aspect of campus life:
 
 - **📅 Attendance System**: Seamless tracking of student attendance with real-time updates.
-- **🤖 AI Insights**: Leverage advanced AI to analyze student performance and generate actionable insights.
 - **📚 Academic Management**: Centralized hub for managing subjects, grades, and school records.
 - **🗓️ Study Planner**: Interactive tool for students to organize their learning schedule and stay on track.
 - **📊 Student & Teacher Dashboards**: Personalized views for different roles, providing relevant data at a glance.
